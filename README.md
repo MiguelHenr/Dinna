@@ -1,2 +1,2 @@
 # Dinna
- Relatório financeiro mensal
+ Relatório financeiro
